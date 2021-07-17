@@ -1,0 +1,54 @@
+.navbar li {
+  padding: 0px;
+  margin: 0;
+  display: inline;
+  text-decoration: none;
+  list-style-type: none;
+}
+.navbar li a {
+  transition: all 0.3s;
+}
+.navbar li a:hover {
+  color: rgb(235, 225, 225);
+}
+
+li a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  display: inline;
+  color: navy;
+}
+
+li {
+  border-right: 1px solid #bbb;
+}
+.img {
+  width: 1000px;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid #555;
+}
+.build {
+  float: center;
+}
+body {
+  scroll-behavior: smooth;
+}
+
+.cimg {
+  width: 1000px;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
