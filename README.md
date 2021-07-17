@@ -3,3 +3,5 @@
 ![SL](https://user-images.githubusercontent.com/60316812/126033233-7cab5cec-27bc-42d2-a16c-1a25bf296412.png)
 ![CR](https://user-images.githubusercontent.com/60316812/126039135-14cfce3b-2eb6-4e24-9e15-aa164cc38f5e.JPG)
 ![LL](https://user-images.githubusercontent.com/60316812/126039178-da515c15-d967-4e52-a6d4-2bf6e2e0ade3.jpg)
+![2SC](https://user-images.githubusercontent.com/60316812/126039346-4bc3ab90-6fd2-4d12-8ea4-a6f0b6619eef.jpg)
+![FN](https://user-images.githubusercontent.com/60316812/126039348-c766ccd6-e397-4490-8eec-b66749491829.JPG)
