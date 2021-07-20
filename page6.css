@@ -1,15 +1,15 @@
-.FrontList li {
+.navbar li {
   padding: 0px;
   margin: 0;
   display: inline;
   text-decoration: none;
   list-style-type: none;
 }
-.FrontList li a {
+.navbar li a {
   transition: all 0.3s;
 }
-.FrontList li a:hover {
-  color: #000066;
+.navbar li a:hover {
+  color: rgb(235, 225, 225);
 }
 
 li a {
@@ -21,21 +21,34 @@ li a {
   justify-content: space-between;
   align-items: center;
   display: inline;
-  color: white;
+  color: navy;
 }
 
 li {
   border-right: 1px solid #bbb;
 }
-.a {
-  color: #ff8000;
+
+body {
+  scroll-behavior: smooth;
 }
-.img {
+
+.SC{
   width: 1000px;
   height: auto;
+  object-fit: contain;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: auto;
 }
-.logo {
-  width: 200px;
-  height: 200px;
-  
+
+.SCO{
+  width: 1000px;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
